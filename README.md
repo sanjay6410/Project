@@ -1,16 +1,16 @@
 <b>TEAM 3 :</b>
 
-<b>Pramod Gouda</b>
+Pramod Gouda
 
-<b>Ritesh Kumar Singh</b>
+Ritesh Kumar Singh
 
-<b>Nuthan S M</b>
+Nuthan S M L
 
-<b>Archith</b>
+Archith R A
 
-<b>Sanjay</b>
+Sanjay Guptha Rachamadugu
 
-<b>Meghana</b>
+Meghana R
 
 <b>Billing System Project</b>
 
