@@ -1,0 +1,447 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Custom field (Development),Custom field (Issue color),Custom field (Rank),Sprint,Custom field (Start date),Custom field (Story point estimate),Status Category
+Payment gateway,RET-27,10033,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Pramod.Gouda,637327799341d1f13603ab92,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/22/2022 12:51,11/30/2022 19:08,12/1/2022 12:36,11/30/2022 19:08,,0,"User Story
+
+As a User I want a Payment Page where I could pay with multiple payment options.
+
+ 
+
+Acceptance Criteria:
+
+In the Cart page the user has to view the payment page of the selected Items.
+
+Payment options as follows:
+
+* UPI Payment Gateway options
+* Credit card payment options
+* Debit Card Payment options
+
+orward to Bill generation page with the above details and generate in excel format. 
+
+Definition Of Done:
+
+The payment page should have the following payment options and generate the bill.",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0005p:,RET Sprint 4,,3,Done
+Payment gate way UI,RET-26,10032,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/22/2022 12:48,11/30/2022 19:08,12/1/2022 10:51,11/30/2022 19:08,,0,"User Story
+
+As a User I want a Payment Page where I could see the payment option with a UI.
+
+ 
+
+Acceptance Criteria:
+
+In the payment page there we should have the payment options like credit card and UPI.
+
+It should have the bill generation part where they could get the list of items their respective amount and total price. 
+
+
+
+ Definition Of Done:
+
+In the payment page should have the following payment options with a generated bill.
+
+In a Form and mentioned above with a background in it.",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0004t:,RET Sprint 4,,2,Done
+Payment gate way UI,RET-25,10031,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Meghana.R,637327799960988ef6bc0814,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/22/2022 12:47,11/30/2022 19:08,12/1/2022 10:54,11/30/2022 19:08,,0,"User Story
+
+As a User I want a Payment Page where I could see the payment option with a UI.
+
+ 
+
+Acceptance Criteria:
+
+In the payment page there we should have the payment options like credit card and UPI.
+
+It should have the bill generation part where they could get the list of items their respective amount and total price.  
+
+
+
+ Definition Of Done:
+
+The payment page should have the following payment options with bill generated.
+
+In a Form and mentioned above with a background in it.",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0005x:,RET Sprint 4,,2,Done
+Payment gateway,RET-24,10030,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Sanjay.Guptha,637327798fd2d2d5f12bef7b,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/22/2022 12:27,11/30/2022 19:08,11/25/2022 17:23,11/30/2022 19:08,,0,"User Story
+
+As a User I want a Payment Page where I could pay with multiple payment options.
+
+ 
+
+Acceptance Criteria:
+
+In the Cart page the user has to view the payment page of the selected Items.
+
+Payment options as follows:
+
+*  UPI Payment Gateway options
+* Credit card payment options
+* Debit Card Payment options
+
+orward to Bill generation page with the above details and generate in excel format.
+
+ Definition Of Done:
+
+The payment page should have the following payment options and generate the bill.",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i00051:,RET Sprint 4,,3,Done
+Payment gateway,RET-23,10029,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,nuthan.sml,63732779de5cdaba3a65ccdc,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/22/2022 12:26,11/30/2022 19:08,11/25/2022 17:23,11/30/2022 19:08,,0,"User Story
+
+As a User I want a Payment Page where I could pay with multiple payment options.
+
+ 
+
+Acceptance Criteria:
+
+In the Cart page the user has to view the payment page of the selected Items.
+
+Payment options as follows:
+
+*  UPI Payment Gateway options
+* Credit card payment options
+* Debit Card Payment options
+
+Forward to Bill generation page with the above details and generate in excel format.
+
+ Definition Of Done:
+
+The payment page should have the following payment options with Bill ",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0005h:,RET Sprint 4,,3,Done
+Payment gateway,RET-22,10028,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Ritesh.Singh,637327799e48f2b9a61046ba,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/22/2022 12:25,11/30/2022 19:08,11/25/2022 17:20,11/30/2022 19:08,,0,"User Story
+
+As a User I want a Payment Page where I could pay with multiple payment options.
+
+ 
+
+Acceptance Criteria:
+
+In the Cart page the user has to view the payment page of the selected Items.
+
+Payment options as follows:
+
+*  UPI Payment Gateway options
+* Credit card payment options
+* Debit Card Payment options
+
+Forward to Bill generation page with the above details and generate in excel format.
+
+ Definition Of Done:
+
+The payment page should have the following payment options with generated Bill. ",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i00059:,RET Sprint 4,,3,Done
+Increase Decrease Cart items,RET-21,10027,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Pramod.Gouda,637327799341d1f13603ab92,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/22/2022 12:01,11/28/2022 15:50,11/22/2022 12:01,11/28/2022 15:50,,0,"User Story
+
+As a User I want a Cart Page where I could increase or decrease Items in it.
+
+ 
+
+Acceptance Criteria:
+
+In the Cart page the user has to view the products and increase or decrease the selected Items.
+
+ 
+
+Definition Of Done
+
+Products listed in the cart page has to be increased or decreased.",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i00037:,RET Sprint 3,,3,Done
+Signup page,RET-20,10026,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/22/2022 11:58,11/28/2022 15:50,11/22/2022 12:01,11/28/2022 15:50,,0,"User Story
+
+As a User I want a Signup Page where I could have a well-designed Signup Page UI
+
+ 
+
+Acceptance Criteria:
+
+In the Sing up page the user has to view the form content in transparent
+
+ 
+
+Definition Of Done
+
+The page should have the contents in the centre and the form must be transparent with the relatable background.",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0002m:,RET Sprint 3,,3,Done
+Login Page,RET-19,10025,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Meghana.R,637327799960988ef6bc0814,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/22/2022 11:56,11/28/2022 15:50,11/30/2022 19:38,11/28/2022 15:50,,0,"User Story
+
+As a User I want a Login Page where I could have a well designed login Page UI
+
+ 
+
+Acceptance Criteria:
+
+In the Login page the user has to view the form content in transparent
+
+ 
+
+Definition Of Done
+
+The page should have the contents in the centre and the form must be transparent with the relatable background.",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i00033:,RET Sprint 3,,2,Done
+Increase Or decrease cart Items,RET-18,10024,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Sanjay.Guptha,637327798fd2d2d5f12bef7b,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/15/2022 17:12,11/28/2022 15:50,11/25/2022 12:48,11/28/2022 15:50,,0,"User Story
+
+As a User I want a Cart Page where I could increase or decrease Items in it.
+
+ 
+
+Acceptance Criteria:
+
+In the Cart page the user has to view the products and increase or decrease the selected Items.
+
+ 
+
+Definition Of Done
+
+Products listed in the cart page has to be increased or decreased.",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0003h:,RET Sprint 3,,3,Done
+Increase Or Decrease Cart Items,RET-17,10023,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Ritesh.Singh,637327799e48f2b9a61046ba,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/15/2022 17:09,11/28/2022 15:50,11/15/2022 17:10,11/28/2022 15:50,,0,"User Story
+
+As a User I want a Cart Page where I could increase or decrease Items in it.
+
+ 
+
+Acceptance Criteria:
+
+In the Cart page the user has to view the products and increase or decrease the selected Items.
+
+ 
+
+Definition Of Done
+
+Products listed in the cart page has to be increased or decreased.",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i00035:i,RET Sprint 3,,3,Done
+Increase Decresae Cart Items,RET-16,10022,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,nuthan.sml,63732779de5cdaba3a65ccdc,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/15/2022 17:08,11/28/2022 15:50,11/15/2022 17:09,11/28/2022 15:50,,0,"User Story
+
+As a User I want a Cart Page where I could increase or decrease Items in it.
+
+
+
+Acceptance Criteria:
+
+In the Cart page the user has to view the products and increase or decrease the selected Items.
+
+
+
+Definition Of Done
+
+Products listed in the cart page has to be increased or decreased.",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i00036:,RET Sprint 3,,3,Done
+Add To Cart,RET-15,10021,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/15/2022 16:58,11/30/2022 19:07,12/1/2022 12:36,11/30/2022 19:07,,0,"User Story
+
+As a User I want a Cart Page where I could view the List Of selected Items int it.
+
+Acceptance Criteria:
+
+In the Cart page the user has to view the List of Products which has been selected from the product page.
+
+With the categories:
+
+-Item (with Image)
+
+-Price Of the Product
+
+
+
+
+
+Definition Of Done
+
+Products should be viewed in the cart page",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0003p:,RET Sprint 2,,3,Done
+Add To Cart,RET-14,10020,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Sanjay.Guptha,637327798fd2d2d5f12bef7b,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/15/2022 16:57,11/30/2022 19:07,11/30/2022 15:11,11/30/2022 19:07,,0,"User Story
+
+As a User I want a Cart Page where I could view the List Of selected Items int it.
+
+Acceptance Criteria:
+
+In the Cart page the user has to view the List of Products which has been selected from the product page.
+
+With the categories:
+
+-Item (with Image)
+
+-Price Of the Product
+
+
+
+
+
+Definition Of Done
+
+Products should be viewed in the cart page",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0003x:,RET Sprint 2,,3,Done
+Add To Cart,RET-13,10019,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Pramod.Gouda,637327799341d1f13603ab92,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/15/2022 16:54,11/30/2022 19:07,11/15/2022 16:56,11/30/2022 19:07,,0,"User Story
+
+As a User I want a Cart Page where I could view the List Of selected Items int it.
+
+Acceptance Criteria:
+
+In the Cart page the user has to view the List of Products which has been selected from the product page.
+
+With the categories:
+
+-Item (with Image)
+
+-Price Of the Product
+
+
+
+
+
+Definition Of Done
+
+Products should be viewed in the cart page",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i00045:,RET Sprint 2,,3,Done
+Listing Items,RET-12,10018,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Ritesh.Singh,637327799e48f2b9a61046ba,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/15/2022 16:46,11/30/2022 19:07,11/15/2022 16:55,11/30/2022 19:07,,0,"User Story
+
+As a User I want a Products Page where I could view the List Of Items
+
+Acceptance Criteria:
+
+In the Product page the user has to view the List of Products once they get logged in.
+
+With the categories:
+
+-Item(with Image)
+
+-Price Of the Product
+
+-Add to cart Option
+
+
+
+Definition Of Done
+
+Products should be viwed in the page",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0004l:,RET Sprint 2,,3,Done
+Listing Items,RET-11,10017,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,nuthan.sml,63732779de5cdaba3a65ccdc,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/15/2022 16:43,11/30/2022 19:07,11/30/2022 15:11,11/30/2022 19:07,,0,"User Story
+
+As a User I want a Products Page where I could view the List Of Items
+
+Acceptance Criteria:
+
+In the Product page the user has to view the List of Products once they get logged in.
+
+With the categories:
+
+-Item(with Image)
+
+-Price Of the Product
+
+-Add to cart Option
+
+
+
+Definition Of Done
+
+Products should be viewed in the page",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0004d:,RET Sprint 2,,3,Done
+List Of Items,RET-10,10016,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Meghana.R,637327799960988ef6bc0814,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/15/2022 16:42,11/30/2022 19:08,11/30/2022 18:32,11/30/2022 19:07,,0,"User Story
+
+As a User I want a Products Page where I could view the List Of Items
+
+Acceptance Criteria:
+
+In the Product page the user has to view the List of Products once they get logged in.
+
+With the categories:
+
+    -Item(with Image)
+
+    -Price Of the Product
+
+    -Add to cart Option 
+
+  
+
+Definition Of Done
+
+As the User gets logged in have to view the Products List",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0004h:,RET Sprint 2,,2,Done
+Sign-Up Page,RET-9,10015,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Pramod.Gouda,637327799341d1f13603ab92,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/15/2022 16:28,11/15/2022 16:29,12/1/2022 12:36,11/15/2022 16:29,,0,"User Story
+
+As a User I want a Sign-Up Page So That I Can get on to the Products Page
+
+Acceptance Criteria:
+
+In Sign-Up Page for the new users, they have to register with the required credentials
+
+i.e.:
+
+-USERNAME ,
+
+-Email Id
+
+-PASSWORD (as phone number)
+
+Definition Of Done
+
+As the User gets Registered, they should be able to be",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0001m:,RET Sprint 1,,3,Done
+Sign-Up Page,RET-8,10014,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/15/2022 15:17,11/15/2022 16:29,12/1/2022 10:51,11/15/2022 16:29,,0,"User Story
+
+As a User I want a Sign-Up Page So That I Can get on to the Products Page
+
+Acceptance Criteria:
+
+In Sign-Up Page for the new users, they have to register with the required credentials
+
+i.e.:
+
+     -USERNAME ,
+
+     -Email Id
+
+     -PASSWORD (as phone number)
+
+Definition Of Done
+
+   As the User gets Registered, they should be able to be logged in.",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0001m:i,RET Sprint 1,,3,Done
+Sign-Up Page,RET-7,10013,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Sanjay.Guptha,637327798fd2d2d5f12bef7b,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/15/2022 15:03,11/15/2022 16:29,11/15/2022 15:09,11/15/2022 16:29,,0,"User Story
+
+As a User I want a Sign-Up Page So That I Can get on to the Products Page
+
+Acceptance Criteria:
+
+In Sign-Up Page for the new users, they have to register with the required credentials
+
+i.e.:
+
+     -USERNAME ,
+
+     -Email Id
+
+     -PASSWORD (as phone number)
+
+Definition Of Done
+
+   As the User gets Registered, they should be able to be logged in.",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0001m:r,RET Sprint 1,,3,Done
+Login Page,RET-6,10012,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,nuthan.sml,63732779de5cdaba3a65ccdc,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/15/2022 14:54,11/15/2022 16:29,11/15/2022 14:54,11/15/2022 16:29,,0,"User Story
+
+As a User I want a Login Page  So That I Can get on to the Products Page
+
+Acceptance Criteria:
+
+In Login Page, for the registered they have to Login by passing the Login credentials
+
+i.e.:
+
+     -USERNAME (as email),
+
+     -PASSWORD (as phone number)
+
+Definition Of Done
+
+   As the User gets Logged in, products Page has to be viewed. ",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0001k:,RET Sprint 1,,3,Done
+Login Page,RET-5,10011,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Meghana.R,637327799960988ef6bc0814,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/15/2022 14:51,11/15/2022 16:29,11/15/2022 14:52,11/15/2022 16:29,,0,"User Story
+
+As a User I want a Login Page  So That I Can get on to the Products Page
+
+Acceptance Criteria:
+
+In Login Page, for the registered they have to Login by passing the Login credentials
+
+i.e.:
+
+     -USERNAME (as email),
+
+     -PASSWORD (as phone number)
+
+Definition Of Done
+
+   As the User gets Logged in, products Page has to be viewed. ",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0001l:,RET Sprint 1,,3,Done
+Login Page,RET-4,10010,Story,Done,RET,Retail_Delight,software,Archith R A,637218379341d1f1360352c4,,Medium,Done,Ritesh.Singh,637327799e48f2b9a61046ba,Archith R A,637218379341d1f1360352c4,Archith R A,637218379341d1f1360352c4,11/15/2022 14:49,11/15/2022 16:29,11/15/2022 14:52,11/15/2022 16:29,,0,"User Story
+
+As a User I want a Login Page  So That I Can get on to the Products Page
+
+Acceptance Criteria:
+
+In Login Page, for the registered they have to Login by passing the Login credentials
+
+i.e.:
+
+     -USERNAME (as email),
+
+     -PASSWORD (as phone number)
+
+Definition Of Done
+
+   As the User gets Logged in, products Page has to be viewed. ",,Archith R A,637218379341d1f1360352c4,,,,,,,,,,,0|i0001j:,RET Sprint 1,,3,Done
