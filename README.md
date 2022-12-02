@@ -1,4 +1,5 @@
 TEAM 5:
+
 Pramod Gouda
 Ritesh Kumar Singh
 Nuthan S M
@@ -9,6 +10,7 @@ Meghana
 Billing System Project
 
 Github url: https://github.com/Ritesh1131/Project.git
+
 Jira Dashboard : https://team-16684221695914.atlassian.net/jira/software/projects/RET/boards/2
 
 Problem Statement: Nowadays, in shopping malls we must wait for the billing in a long queue, it accrues traffic in a mall, and it is a very time-consuming process. So, there is a need to design a system that will reduce the time of billing procedure.
