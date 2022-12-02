@@ -22,7 +22,7 @@
 
 Nowadays, in shopping malls we must wait for the billing in a long queue, it accrues traffic in a mall, and it is a very time-consuming process. So, there is a need to design a system that will reduce the time of billing procedure.
 
-<b>Technologies:</b>
+<b>Technologies :</b>
 
 Spring boot MVC.
 
@@ -46,16 +46,15 @@ Tomcat Server
 
 Daily Scrum meeting – We held a daily meeting every day to check everyone’s status if they needed any help.
 
-Task Assignment
-Project management and Task Distribution was handled through JIRA PROJECT MANAGEMENT TOOL
+<b>Task Assignment : </b> Project management and Task Distribution was handled through JIRA PROJECT MANAGEMENT TOOL
 
-Attachment of workflow process: https://github.com/Ritesh1131/Project/blob/master/Team%203-Test%20Cases%20Documentation.xlsx
+<b>Attachment of workflow process :</b> https://github.com/Ritesh1131/Project/blob/master/Team%203-Test%20Cases%20Documentation.xlsx
 
-Features of each Users and further project implementational details are documented :
+<b>Features of each Users and further project implementational details are documented :</b>
 
 https://github.com/Ritesh1131/Project/blob/master/Document/Team_3_BILLINGSYSTEM%20-DOCS.docx
 
-Snaps :
+<b>Snaps :</b>
 
 ![Registration page](https://user-images.githubusercontent.com/114725771/205293990-7d60bd17-d794-4836-9d9a-1738a2e1a930.jpg)
 ![rightCredentials-login](https://user-images.githubusercontent.com/114725771/205294036-2b2cb876-bb30-45fb-a3d1-8a2b9bd26358.jpg)
