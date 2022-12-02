@@ -1,28 +1,28 @@
 <b>TEAM 3 :</b>
 
-Pramod Gouda
+<b>Pramod Gouda</b>
 
-Ritesh Kumar Singh
+<b>Ritesh Kumar Singh</b>
 
-Nuthan S M
+<b>Nuthan S M</b>
 
-Archith
+<b>Archith</b>
 
-Sanjay
+<b>Sanjay</b>
 
-Meghana
+<b>Meghana</b>
 
-Billing System Project
+<b>Billing System Project</b>
 
-Github url : https://github.com/Ritesh1131/Project.git
+<b>Github url :</b> https://github.com/Ritesh1131/Project.git
 
-Jira Dashboard : https://team-16684221695914.atlassian.net/jira/software/projects/RET/boards/2
+<b>Jira Dashboard :</b> https://team-16684221695914.atlassian.net/jira/software/projects/RET/boards/2
 
-Problem Statement : 
+<b>Problem Statement : </b>
 
 Nowadays, in shopping malls we must wait for the billing in a long queue, it accrues traffic in a mall, and it is a very time-consuming process. So, there is a need to design a system that will reduce the time of billing procedure.
 
-Technologies:
+<b>Technologies:</b>
 
 Spring boot MVC.
 
