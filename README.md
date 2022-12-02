@@ -48,7 +48,7 @@ Daily Scrum meeting – We held a daily meeting every day to check everyone’s 
 
 <b>Task Assignment : </b> Project management and Task Distribution was handled through JIRA PROJECT MANAGEMENT TOOL
 
-<b>Attachment of workflow process :</b> https://github.com/Ritesh1131/Project/blob/master/Team%203-Test%20Cases%20Documentation.xlsx
+<b>https://github.com/Ritesh1131/Project/blob/master/Jira-Retail_Delight%20Team%203.csv
 
 <b>Features of each Users and further project implementational details are documented :</b>
 
