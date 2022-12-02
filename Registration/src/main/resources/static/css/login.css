@@ -1,0 +1,63 @@
+.wrapper {
+    margin-top: 200px;
+    margin-bottom: 50px;
+}
+
+.form-signin {
+    max-width: 420px;
+    padding: 30px 38px 10px;
+    margin: 0 auto;
+    background-color: transparent;
+/*     border: 3px dotted rgba(0,0,0,0.1); */
+}
+.form-signup {
+    max-width: 420px;
+    padding: 30px 38px 66px;
+    margin: 0 auto;
+    background-color: transparent;
+/*     border: 3px dotted rgba(0,0,0,0.1); */
+}
+.form-signin-heading {
+    text-align:center;
+    margin-bottom: 30px;
+    color: white;
+}
+.container{
+	 padding-top: 10px;
+}
+
+.form-control {
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+}
+.logo {
+       width: 200px;
+       height: 200px;
+       margin-right: auto;
+       margin-top: 10px; 
+       margin-left: 50px;
+       /*the margin top pushes the logo down by 10 pixels*/
+       border-radius: 50%;
+     }
+
+.navbar {
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ padding: 20px;
+ background-color: transparent;
+ color: black;
+}
+input[type="text"] {
+    margin-bottom: 0px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+input[type="password"] {
+    margin-bottom: 20px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
